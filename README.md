@@ -8,4 +8,5 @@ Django 3.2.1 LTS repo
 ```bash
 python -m venv env
 source env/bin/activate
+pip install -r requirements.txt
 ```
