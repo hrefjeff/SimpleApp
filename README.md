@@ -1,6 +1,8 @@
 # SimpleApp
 Django 3.2.1 LTS repo
 
+https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg helpful resource
+
 ## Setup
 
 ### Create virtual environment
